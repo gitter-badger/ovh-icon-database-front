@@ -1,5 +1,7 @@
 # ovh-icon-database-front
 
+[![Join the chat at https://gitter.im/ovh-icon-database-front/Lobby](https://badges.gitter.im/ovh-icon-database-front/Lobby.svg)](https://gitter.im/ovh-icon-database-front/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > front end of ovh-icon-database
 
 ## Build Setup
